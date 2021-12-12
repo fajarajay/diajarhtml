@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<img src="logo_AK.png" width="200" height="200">
+<div>
+	<title>ALZAM KREASI</title>
+	<img src="bg_body.jpg" width="328" height="656">
+</div>
+</head>
+
+<body>
+<h1>PERCETAKAN & REKLAME</h1>
+<div>
+	<p><strong>Melayani Cetak:</strong><br>
+	<img src="bd_yellow.png" width="15" height="15">Undangan<br>
+	<img src="bd_yellow.png" width="15" height="15">Stempel<br>
+	<img src="bd_yellow.png" width="15" height="15">Kartu Nama<br>
+	<img src="bd_yellow.png" width="15" height="15">Brosur<br>
+	<img src="bd_yellow.png" width="15" height="15">Buku Yasin<br>
+	<img src="bd_yellow.png" width="15" height="15">Baner<br>
+	<img src="bd_yellow.png" width="15" height="15">X Baner<br>
+	<img src="bd_yellow.png" width="15" height="15">Nota</p>
+	<img src="baner.png" width="100" height="100">
+	<img src="stempel.png" width="100" height="100">
+	<img src="nota.png" width="100" height="100">
+	<img src="yasin.jpg" width="100" height="100">
+	<div>
+		<img src="rol baner.png" alt="rol baner" width="100" height="100">
+		<img src="x baner.png" alt="x banner"width="100" height="100">
+		<img src="nota.png" alt="nota" width="100" height="100">
+		<img src="yasin.jpg" alt="yasin" width="100" height="100">
+	</div>
+
+<p><strong>Media Social :</strong></p>
+<a href="https://www.instagram.com/alzamkreasi/" style="color:red;">Follow Instagram</a>
+
+</div>
+</body>
+</html>
